@@ -1,0 +1,15 @@
+C:\dev-ata\atividades\nota\obj\Debug\net7.0\nota.csproj.AssemblyReference.cache
+C:\dev-ata\atividades\nota\obj\Debug\net7.0\nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev-ata\atividades\nota\obj\Debug\net7.0\nota.AssemblyInfoInputs.cache
+C:\dev-ata\atividades\nota\obj\Debug\net7.0\nota.AssemblyInfo.cs
+C:\dev-ata\atividades\nota\obj\Debug\net7.0\nota.csproj.CoreCompileInputs.cache
+C:\dev-ata\atividades\nota\bin\Debug\net7.0\nota.exe
+C:\dev-ata\atividades\nota\bin\Debug\net7.0\nota.deps.json
+C:\dev-ata\atividades\nota\bin\Debug\net7.0\nota.runtimeconfig.json
+C:\dev-ata\atividades\nota\bin\Debug\net7.0\nota.dll
+C:\dev-ata\atividades\nota\bin\Debug\net7.0\nota.pdb
+C:\dev-ata\atividades\nota\obj\Debug\net7.0\nota.dll
+C:\dev-ata\atividades\nota\obj\Debug\net7.0\refint\nota.dll
+C:\dev-ata\atividades\nota\obj\Debug\net7.0\nota.pdb
+C:\dev-ata\atividades\nota\obj\Debug\net7.0\nota.genruntimeconfig.cache
+C:\dev-ata\atividades\nota\obj\Debug\net7.0\ref\nota.dll
