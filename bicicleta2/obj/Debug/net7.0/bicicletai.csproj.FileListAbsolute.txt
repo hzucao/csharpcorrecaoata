@@ -1,0 +1,15 @@
+C:\dev-ata\atividadesc\bicicleta2\bin\Debug\net7.0\bicicletai.exe
+C:\dev-ata\atividadesc\bicicleta2\bin\Debug\net7.0\bicicletai.deps.json
+C:\dev-ata\atividadesc\bicicleta2\bin\Debug\net7.0\bicicletai.runtimeconfig.json
+C:\dev-ata\atividadesc\bicicleta2\bin\Debug\net7.0\bicicletai.dll
+C:\dev-ata\atividadesc\bicicleta2\bin\Debug\net7.0\bicicletai.pdb
+C:\dev-ata\atividadesc\bicicleta2\obj\Debug\net7.0\bicicletai.csproj.AssemblyReference.cache
+C:\dev-ata\atividadesc\bicicleta2\obj\Debug\net7.0\bicicletai.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev-ata\atividadesc\bicicleta2\obj\Debug\net7.0\bicicletai.AssemblyInfoInputs.cache
+C:\dev-ata\atividadesc\bicicleta2\obj\Debug\net7.0\bicicletai.AssemblyInfo.cs
+C:\dev-ata\atividadesc\bicicleta2\obj\Debug\net7.0\bicicletai.csproj.CoreCompileInputs.cache
+C:\dev-ata\atividadesc\bicicleta2\obj\Debug\net7.0\bicicletai.dll
+C:\dev-ata\atividadesc\bicicleta2\obj\Debug\net7.0\refint\bicicletai.dll
+C:\dev-ata\atividadesc\bicicleta2\obj\Debug\net7.0\bicicletai.pdb
+C:\dev-ata\atividadesc\bicicleta2\obj\Debug\net7.0\bicicletai.genruntimeconfig.cache
+C:\dev-ata\atividadesc\bicicleta2\obj\Debug\net7.0\ref\bicicletai.dll
